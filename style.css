@@ -1,0 +1,13 @@
+@media (max-width:576px)  {
+    .list-item{
+        display: hidden;
+        content: url(./assets/hamburger-menu.png);
+        
+        
+    }
+    
+
+
+    
+}
+     
